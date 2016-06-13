@@ -1,2 +1,0 @@
-# xelmus.github.io
-Stampstore
